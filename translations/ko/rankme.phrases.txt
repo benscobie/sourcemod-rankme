@@ -1,0 +1,300 @@
+﻿"Phrases"
+{
+	"BombPickup"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 C4를 주워 {3}점을 얻었습니다."
+	}
+	"BombDropped"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 C4를 버려 {3}점을 잃었습니다."
+	}
+	"MVP"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 이번 라운드의 MVP로 {3}점을 얻었습니다."
+	}
+	"Kills"
+	{
+		"ko"		"죽인 수"
+	}
+	"LostSuicide"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 자살으로 {3}점을 잃었습니다."
+	}
+	"LostTK"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 {lightgreen}{4}{default}님을 팀킬하여 {3}점을 잃었습니다. "
+	}
+	"VIPStats"
+	{
+		"ko"		"VIP 통계"
+	}
+	"VIPEscapes"
+	{
+		"ko"		"VIP로 탈출"
+	}
+	"VIPsKilled"
+	{
+		"ko"		"VIP 사살"
+	}
+	"CT_VIPEscaped"
+	{
+		"ko"		"{lightgreen}대테러부대{default}팀이 VIP로 탈출하여 {1}점을 얻었습니다."
+	}
+	"VIPEscaped"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 VIP로 탈출하여 {3}점을 얻었습니다."
+	}
+	"TR_VIPKilled"
+	{
+		"ko"		"{lightgreen}테러리스트{default}팀이 VIP를 사살하여 {1}점을 얻었습니다."
+	}
+	"VIPKilled"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 VIP를 사살하여 {3}점을 얻었습니다."
+	}
+	
+	"GotPointsBy"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 {4} 로 {3}점을 얻었습니다."
+	}
+
+	"IsRankedAt"
+	{
+		"ko"		"{1}님의 순위는 {2}/{3} 입니다. 점수: {4}점 | 죽인 수: {5} | 죽은 수: {6} | 비율: {7}"
+	}
+	"Killing"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 {lightgreen}{4} {default}({5})님을 사살하여 {3}점을 얻었습니다."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})[{6}/{7}]님이 {lightgreen}{4} {default}({5})님을 사살하여 {3}점을 얻었습니다."
+	}
+	"KillingVictimNotRanked"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 {lightgreen}{4} {default}({5})[{6}/{7}]님을 사살하여 {3}점을 얻었습니다."
+	}
+	"KillingBothNotRanked"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})[{6}/{7}]님이 {lightgreen}{4} {default}({5})[{8}/{9}]님을 사살하여 {3}점을 얻었습니다."
+	}
+	"Headshot"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 헤드샷으로 {3}점을 얻었습니다."
+	}
+	"TR_Planting"
+	{
+		"ko"		"{lightgreen}테러리스트{default}팀이 폭탄을 설치하여 {1}점을 얻었습니다."
+	}
+	
+	"Planting"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 폭탄을 설치하여 {3}점을 얻었습니다."
+	}
+	"TR_Exploding"
+	{
+		"ko"		"{lightgreen}테러리스트{default}팀이 폭탄을 폭파시켜 {1}점을 얻었습니다."
+	}
+	
+	"Exploding"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 폭탄을 폭파시켜 {3}점을 얻었습니다."
+	}
+	"CT_Defusing"
+	{
+		"ko"		"{lightgreen}대테러부대{default}팀이 폭탄을 해체하여 {1}점을 얻었습니다."
+	}
+	
+	"Defusing"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 폭탄을 해체하여 {3}점을 얻었습니다."
+	}
+	
+	"CT_Hostage"
+	{
+		"ko"		"{lightgreen}대테러부대{default}팀이 인질을 구출하여 {1}점을 얻었습니다."
+	}
+	
+	"Hostage"
+	{
+		"ko"		"{lightgreen}{1}{default} ({2})님이 인질을 구출하여 {3}점을 얻었습니다."
+	}
+	
+	"CT_Round"
+	{
+		"ko"		"{lightgreen}대테러부대{default}팀이 라운드에서 승리하여 {1}점을 얻었습니다."
+	}
+	
+	"TR_Round"
+	{
+		"ko"		"{lightgreen}테러리스트{default}팀이 라운드에서 승리하여 {1}점을 얻었습니다."
+	}
+	
+	
+	"Showing"
+	{
+		"ko"		"{1}님에게 {2}위 ~ {3}위까지 출력합니다.\n"
+	}
+	
+	"Next"
+	{
+		"ko"		"다음"
+	}
+	
+	"Back"
+	{
+		"ko"		"이전"
+	}
+	
+	"KnifeKills"
+	{
+		"ko"		"칼로 죽인 수"
+	}
+	
+	"NotRanked"
+	{
+		"ko"		"아직 랭크에 등록되지 않았습니다. 랭킹에 들어가기 위해선 {2}점이 필요합니다. (현재 {1}점)"
+	}
+	
+	"Position"
+	{
+		"ko"		"Position"
+	}
+	
+	"Points"
+	{
+		"ko"		"Points"
+	}
+	
+	"BasicStats"
+	{
+		"ko"		"기본 통계"
+	}
+	
+	"KillsDeaths"
+	{
+		"ko"		"죽인 수: {1}   죽은 수: {2}"
+	}
+	
+	"Suicides"
+	{
+		"ko"		"자살"
+	}
+	
+	"RoundStats"
+	{
+		"ko"		"라운드 통계"
+	}
+	
+	"TRWins"
+	{
+		"ko"		"테러리스트 승리"
+	}
+	
+	"CTWins"
+	{
+		"ko"		"대테러부대 승리"
+	}
+	
+	"HitStats"
+	{
+		"ko"		"공격 통계"
+	}
+	
+	"Shots"
+	{
+		"ko"		"발포 횟수"
+	}
+	
+	"Hits"
+	{
+		"ko"		"공격 횟수"
+	}
+	
+	"Accuracy"
+	{
+		"ko"		"정확도"
+	}
+	
+	"BombHostagesStats"
+	{
+		"ko"		"폭탄/인질 통계"
+	}
+	
+	"PlantedBombs"
+	{
+		"ko"		"폭탄 설치"
+	}
+	
+	"DefusedBombs"
+	{
+		"ko"		"폭탄 해체"
+	}
+	
+	"ExplodedBombs"
+	{
+		"ko"		"폭탄 폭파"
+	}
+	
+	"RescuedHostages"
+	{
+		"ko"		"인질 구출"
+	}
+	
+	"OtherStats"
+	{
+		"ko"		"기타 통계"
+	}
+	
+	"TimeConnected"
+	{
+		"ko"		"접속 시간: {1} 시간, {2} 분, {3} 초"
+	}
+	
+	"Head"
+	{
+		"ko"		"머리"
+	}
+	
+	"Chest"
+	{
+		"ko"		"가슴"
+	}
+	
+	"Stomach"
+	{
+		"ko"		"배"
+	}
+	
+	"LeftArm"
+	{
+		"ko"		"왼팔"
+	}
+	
+	"LeftLeg"
+	{
+		"ko"		"왼다리"
+	}
+	
+	"RightArm"
+	{
+		"ko"		"오른팔"
+	}
+	
+	"RightLeg"
+	{
+		"ko"		"오른다리"
+	}
+	
+	"Next9Players"
+	{
+		"ko"		"다음 9명"
+	}
+	
+	"WeaponsStats"
+	{
+		"ko"		"무기 통계"
+	}
+}
+ 

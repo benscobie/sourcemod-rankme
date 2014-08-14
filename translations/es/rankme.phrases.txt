@@ -1,0 +1,251 @@
+﻿"Phrases"
+{
+	"Kills"
+	{
+		"es"		"Muertes"
+	}
+	"GotPointsBy"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} punto(s) por {4}."
+	}
+	"IsRankedAt"
+	{
+		"es"		"Jugador {1}  esta en posición {2}/{3} con {4} puntos, {5}  muertes, {6} muertos y KDR {7}"
+	}
+	"Killing"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} puntos por matar a {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"es"		"{lightgreen}{1}{default} ({2})[{6}/{7}] gana {3} puntos por matar a {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} puntos por matar a {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"es"		"{lightgreen}{1}{default} ({2})[{6}/{7}] gana {3} puntos por matar a {lightgreen}{4} {default}({5})[{8}/{7}]."
+	}
+	"Headshot"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} punto por Headshot."
+	}
+	"TR_Planting"
+	{
+		"es"		"{lightgreen}Los Terroristas{default} ganan {1} por plantar la Bomba"
+	}
+	
+	"Planting"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} puntos por plantar la bomba."
+	}
+	"TR_Exploding"
+	{
+		"es"		"{lightgreen}Los Terroristas{default} ganan {1} por haber explotado la Bomba."
+	}
+	
+	"Exploding"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} por haber explotado la Bomba."
+	}
+	"CT_Defusing"
+	{
+		"es"		"{lightgreen}Los Anti-Terroristas{default} ganan {1} puntos por desactivar la Bomba."
+	}
+	
+	"Defusing"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} puntos por desactivar la Bomba."
+	}
+	
+	"CT_Hostage"
+	{
+		"es"		"{lightgreen}Los Anti-Terroristas{default} ganan {1} puntos por rescatar a los rehenes."
+	}
+	
+	"Hostage"
+	{
+		"es"		"{lightgreen}{1}{default} ({2}) gana {3} puntos por rescatar a los rehenes."
+	}
+	
+	"CT_Round"
+	{
+		"es"		"{lightgreen}Los Anti-Terroristas{default} ganan {1} puntos por Ganar la Ronda."
+	}
+	
+	"TR_Round"
+	{
+		"es"		"{lightgreen}Los Terroristas{default} ganan {1} puntos por ganar la ronda."
+	}
+	
+	
+	"Showing"
+	{
+		"es"		"Mostrando de {1} a {2} de {3}\n"
+	}
+	
+	"Next"
+	{
+		"es"		"Siguiente"
+	}
+	
+	"Back"
+	{
+		"es"		"Volver"
+	}
+	
+	"KnifeKills"
+	{
+		"es"		"Muertes con Cuchillo"
+	}
+	
+	"NotRanked"
+	{
+		"es"		"Todavia no estas en el rank. Necesitas {2} muertes para entrar en el rank. Actuales {1}."
+	}
+	
+	"Position"
+	{
+		"es"		"Posicion"
+	}
+	
+	"Points"
+	{
+		"es"		"Puntos"
+	}
+	
+	"BasicStats"
+	{
+		"es"		"Estadisticas Basicas"
+	}
+	
+	"KillsDeaths"
+	{
+		"es"		"Muertes: {1}   Muerto: {2}"
+	}
+	
+	"Suicides"
+	{
+		"es"		"Suicidios"
+	}
+	
+	"RoundStats"
+	{
+		"es"		"Estadisticas de la Ronda"
+	}
+	
+	"TRWins"
+	{
+		"es"		"Victorias de Terros"
+	}
+	
+	"CTWins"
+	{
+		"en"		"Victorias de Antis"
+	}
+	
+	"HitStats"
+	{
+		"es"		"Estadisticas de Aciertos"
+	}
+	
+	"Shots"
+	{
+		"es"		"Tiros"
+	}
+	
+	"Hits"
+	{
+		"es"		"Aciertos"
+	}
+	
+	"Accuracy"
+	{
+		"es"		"Precision"
+	}
+	
+	"BombHostagesStats"
+	{
+		"es"		"Estadisticas de Bombas/Rehenes"
+	}
+	
+	"PlantedBombs"
+	{
+		"es"		"Bombas Plantadas"
+	}
+	
+	"DefusedBombs"
+	{
+		"es"		"Bombas Desactivadas"
+	}
+	
+	"ExplodedBombs"
+	{
+		"es"		"Bombas Explotadas"
+	}
+	
+	"RescuedHostages"
+	{
+		"es"		"Rehenes Rescatados"
+	}
+	
+	"OtherStats"
+	{
+		"es"		"Otras Estadisticas"
+	}
+	
+	"TimeConnected"
+	{
+		"es"		"Tiempo conectado: {1} horas, {2} minutos, {3} segundos"
+	}
+	
+	"Head"
+	{
+		"es"		"Cabeza"
+	}
+	
+	"Chest"
+	{
+		"es"		"Pecho"
+	}
+	
+	"Stomach"
+	{
+		"es"		"Estomago"
+	}
+	
+	"LeftArm"
+	{
+		"es"		"Brazo izquierdo"
+	}
+	
+	"LeftLeg"
+	{
+		"es"		"Pierna izquierda"
+	}
+	
+	"RightArm"
+	{
+		"es"		"Brazo derecho"
+	}
+	
+	"RightLeg"
+	{
+		"es"		"Pierna derecha"
+	}
+	
+	"Next9Players"
+	{
+		"es"		"Siguientes 9 jugadores"
+	}
+	
+	"WeaponsStats"
+	{
+		"es"		"Estadisticas de Arma"
+
+	}
+}
+ 

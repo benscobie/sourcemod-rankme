@@ -1,0 +1,266 @@
+﻿"Phrases"
+{
+	"Kills"
+	{
+		"no"		"Drap"
+	}
+	"IsRankedAt"
+	{
+		
+		"no"		"Spiller {1}  er ranket som nummer {2}/{3} med {4) poeng, {5}  drap, {6} dødsfall and KDR {7}"
+	}
+	"Killing"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å drepe {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2})[{6}/{7}] fikk {3} poeng for å drepe {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å drepe {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2})[{6}/{7}] fikk {3} poeng for å drepe {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for hodeskudd."
+	}
+	"TR_Planting"
+	{
+		
+		"no"		"{lightgreen}Terrorists{default} fikk {1} poeng for å plante bomben"
+	}
+	
+	"Planting"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å plante bomben."
+	}
+	"TR_Exploding"
+	{
+		
+		"no"		"{lightgreen}Terrorists{default} fikk {1} poeng for å detonere bomben."
+	}
+	
+	"Exploding"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å detonere bomben."
+	}
+	"CT_Defusing"
+	{
+		
+		"no"		"{lightgreen}Counter-Terrorists{default} fikk {1} poeng for å uskadeliggjøre bomben."
+	}
+	
+	"Defusing"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å uskadeliggjøre bombenb."
+	}
+	
+	"CT_Hostage"
+	{
+		
+		"no"		"{lightgreen}Counter-Terrorists{default} fikk {1} poeng for å redde et gissel."
+	}
+	
+	"Hostage"
+	{
+		
+		"no"		"{lightgreen}{1}{default} ({2}) fikk {3} poeng for å redde et gissel."
+	}
+	
+	"CT_Round"
+	{
+		
+		"no"		"{lightgreen}Counter-Terrorists{default} fikk {1} poeng for å vinne runden."
+	}
+	
+	"TR_Round"
+	{
+		
+		"no"		"{lightgreen}Terrorists{default} fikk {1} poeng for å vinne runden."
+	}
+	
+	
+	"Showing"
+	{
+		
+		"no"		"Viser fra {1} til {2} av {3}\n"
+	}
+	
+	"Next"
+	{
+		"no"		"Neste"
+	}
+	
+	"Back"
+	{
+		"no"		"Tilbake"
+	}
+	
+	"KnifeKills"
+	{
+		"no"		"Kniv drap"
+	}
+	
+	"NotRanked"
+	{
+		
+		"no"		"Ikke ranket enda. Du trenger {2} drap for å bli ranket. Du har {1}."
+	}
+	
+	"Position"
+	{
+		"no"		"Posisjon"
+	}
+	
+	"Points"
+	{
+		"no"		"Poeng"
+	}
+	
+	"BasicStats"
+	{
+		"no"		"Grunnleggende statistikk"
+	}
+	
+	"KillsDeaths"
+	{
+		
+		"no"		"Drap: {1}   Dødsfall: {2}"
+	}
+	
+	"Suicides"
+	{
+		"no"		"Selvmord"
+	}
+	
+	"RoundStats"
+	{
+		"no"		"Runde statistikk"
+	}
+	
+	"TRWins"
+	{
+		"no"		"Runder vunnet som TR"
+	}
+	
+	"CTWins"
+	{
+		"no"		"Runder vunnet som CT"
+	}
+	
+	"HitStats"
+	{
+		"no"		"Skudd statistikk"
+	}
+	
+	"Shots"
+	{
+		"no"		"Skudd"
+	}
+	
+	"Hits"
+	{
+		"no"		"Treff"
+	}
+	
+	"Accuracy"
+	{
+		"no"		"Treffsikkerhet"
+	}
+	
+	"BombHostagesStats"
+	{
+		"no"		"Bombe/Gissel statistikk"
+	}
+	
+	"PlantedBombs"
+	{
+		"no"		"Plantede bomber"
+	}
+	
+	"DefusedBombs"
+	{
+		"no"		"Desarmerte bomber"
+	}
+	
+	"ExplodedBombs"
+	{
+		"no"		"Detonerte bomber"
+	}
+	
+	"RescuedHostages"
+	{
+		"no"		"Gisler reddet"
+	}
+	
+	"OtherStats"
+	{
+		"no"		"Andre statistikker"
+	}
+	
+	"TimeConnected"
+	{
+		
+		"no"		"Tid tilkoblet: {1} timer, {2} minutter, {3} sekunder"
+	}
+	
+	"Head"
+	{
+		"no"		"Hode"
+	}
+	
+	"Chest"
+	{
+		"no"		"Bryst"
+	}
+	
+	"Stomach"
+	{
+		"no"		"Mage"
+	}
+	
+	"LeftArm"
+	{
+		"no"		"Venstre arm"
+	}
+	
+	"LeftLeg"
+	{
+		"no"		"Venstre ben"
+	}
+	
+	"RightArm"
+	{
+		"no"		"Høyre arm"
+	}
+	
+	"RightLeg"
+	{
+		"no"		"Høyre ben"
+	}
+	
+	"Next9Players"
+	{
+		"no"		"Neste 9 spillere"
+	}
+	
+	"WeaponsStats"
+	{
+		"no"		"Våpen statistikk"
+	}
+}
+ 

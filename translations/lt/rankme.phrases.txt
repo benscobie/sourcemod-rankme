@@ -1,0 +1,246 @@
+"Phrases"
+{
+	"Kills"
+	{
+		"lt"		"Nužudymai"
+	}
+	"IsRankedAt"
+	{
+		"lt"		"Žaidėjas {1}  yra {2}/{3} su {4) taškais, {5}  nužudymais, {6} mirtimis ir {7} nužudimų-mirčių santykiu"
+	}
+	"Killing"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už {lightgreen}{4} {default}nužudymą ({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2})[{6}/{7}] gavo {3} taškus už {lightgreen}{4} {default}nužudymą ({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už {lightgreen}{4} {default}nužudymą ({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2})[{6}/{7}] gavo {3} taškus už {lightgreen}{4} {default}nužudymą ({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už šūvį į galvą."
+	}
+	"TR_Planting"
+	{
+		"lt"		"{lightgreen}Terrorists{default} gavo {1} taškus už bombos įtaisymą"
+	}
+	
+	"Planting"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už bombos įtaisymą."
+	}
+	"TR_Exploding"
+	{
+		"lt"		"{lightgreen}Teroristai{default} gavo {1} taškus už bombos susprogdinimą."
+	}
+	
+	"Exploding"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už bombos susprogdinimą."
+	}
+	"CT_Defusing"
+	{
+		"lt"		"{lightgreen}Counter-Teroristai{default} gavo {1} taškus už bombos nukenksminimą."
+	}
+	
+	"Defusing"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už bombos nukenksminimą."
+	}
+	
+	"CT_Hostage"
+	{
+		"lt"		"{lightgreen}Counter-Teroristai{default} gavo {1} taškus už įkaito išvadavimą."
+	}
+	
+	"Hostage"
+	{
+		"lt"		"{lightgreen}{1}{default} ({2}) gavo {3} taškus už įkaito išvadavimą."
+	}
+	
+	"CT_Round"
+	{
+		"lt"		"{lightgreen}Counter-Teroristai{default} gavo {1} taškus už raundo laimėjimą."
+	}
+	
+	"TR_Round"
+	{
+		"lt"		"{lightgreen}Teroristai{default} gavo {1} taškus už raundo laimėjimą."
+	}
+	
+	
+	"Showing"
+	{
+		"lt"		"Rodoma nuo {1} iki {2} iš {3}\n"
+	}
+	
+	"Next"
+	{
+		"lt"		"Toliau"
+	}
+	
+	"Back"
+	{
+		"lt"		"Atgal"
+	}
+	
+	"KnifeKills"
+	{
+		"lt"		"Nužudymai peiliu"
+	}
+	
+	"NotRanked"
+	{
+		"lt"		"Dar ne statistikoje. Jums reikia {2} nužudymų patekimui į statistiką. Dabar {1}."
+	}
+	
+	"Position"
+	{
+		"lt"		"Pozicija"
+	}
+	
+	"Points"
+	{
+		"lt"		"Taškai"
+	}
+	
+	"BasicStats"
+	{
+		"lt"		"Įprasta statistika"
+	}
+	
+	"KillsDeaths"
+	{
+		"lt"		"Nužudymai: {1}   Mirtys: {2}"
+	}
+	
+	"Suicides"
+	{
+		"lt"		"Nusižudymai"
+	}
+	
+	"RoundStats"
+	{
+		"lt"		"Raundų statistika"
+	}
+	
+	"TRWins"
+	{
+		"lt"		"T pergalės"
+	}
+	
+	"CTWins"
+	{
+		"lt"		"CT pergalės"
+	}
+	
+	"HitStats"
+	{
+		"lt"		"Pataikymų statistika"
+	}
+	
+	"Shots"
+	{
+		"lt"		"Šūviai"
+	}
+	
+	"Hits"
+	{
+		"lt"		"Pataikymai"
+	}
+	
+	"Accuracy"
+	{
+		"lt"		"Taiklumas"
+	}
+	
+	"BombHostagesStats"
+	{
+		"lt"		"Bombų/Įkaitų statistika"
+	}
+	
+	"PlantedBombs"
+	{
+		"lt"		"Įtaisytos bombos"
+	}
+	
+	"DefusedBombs"
+	{
+		"lt"		"Nukenksmintos bombos"
+	}
+	
+	"ExplodedBombs"
+	{
+		"lt"		"Susprogdintos bombos"
+	}
+	
+	"RescuedHostages"
+	{
+		"lt"		"Išvaduoti įkaitai"
+	}
+	
+	"OtherStats"
+	{
+		"lt"		"Kita statistika"
+	}
+	
+	"TimeConnected"
+	{
+		"lt"		"Laikas prisijungus: {1} valandos, {2} minutės, {3} sekundės"
+	}
+	
+	"Head"
+	{
+		"lt"		"Galva"
+	}
+	
+	"Chest"
+	{
+		"lt"		"Krūtinė"
+	}
+	
+	"Stomach"
+	{
+		"lt"		"Pilvas"
+	}
+	
+	"LeftArm"
+	{
+		"lt"		"Kairė ranka"
+	}
+	
+	"LeftLeg"
+	{
+		"lt"		"Kairė koja"
+	}
+	
+	"RightArm"
+	{
+		"lt"		"Dešinė ranka"
+	}
+	
+	"RightLeg"
+	{
+		"lt"		"Dešinė koja"
+	}
+	
+	"Next9Players"
+	{
+		"lt"		"Sekantys 9 žaidėjai"
+	}
+	
+	"WeaponsStats"
+	{
+		"lt"		"Ginklų statistika"
+	}
+}
+ 

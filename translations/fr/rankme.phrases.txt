@@ -1,0 +1,338 @@
+﻿"Phrases"
+{
+	"Deaths"
+	{
+		"fr"		"Morts"
+	}
+	"ResetMyRank"{
+
+    	"fr"		"{default}Ton rank a été réinitialisé"
+	}
+	"BombPickup"
+	{
+
+		"fr"		"{lightgreen}{1}{default} ({2}) a reçu {3} point(s) pour avoir pris la bombe."
+	}
+	"BombDropped"
+	{
+
+		"fr"		"{lightgreen}{1}{default} ({2}) a perdu {3} point(s) pour avoir laché la bombe."
+	}
+	"MVP"
+	{
+	
+		"fr"		"{lightgreen}{1}{default} ({2}) a reçu {3} point(s) pour avoir été le joueur le plus utile."
+	}
+	"LostSuicide"
+	{
+
+		"fr"		"{lightgreen}{1}{default} ({2}) a perdu {3} point(s) lors en suicidant."
+	}
+	"LostTK"
+	{
+
+		"fr"		"{lightgreen}{1}{default} ({2}) perd {3} point(s) pour avoir tué un coéquipié {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"fr"		"Statistiques VIP"
+	}
+	"VIPEscapes"
+	{
+		"fr"		"Evasions en tant que VIP"
+	}
+	"VIPsKilled"
+	{
+		"fr"		"VIPs tués"
+	}
+	"Kills"
+	{
+		"fr"		"tués"
+	}
+	"LostSuicide"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) perd {3} point(s) lors d'un suicide."
+	}
+	"LostTK"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) perd {3} point(s) pour avoir tué un coéquipié {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"fr"		"Statistiques VIP"
+	}
+	"VIPEscapes"
+	{
+		"fr"		"Evasions en tant que VIP"
+	}
+	"VIPsKilled"
+	{
+		"fr"		"VIPs tués"
+	}
+	"CT_VIPEscaped"
+	{
+		"fr"		"Les {lightgreen}Anti-Terroristes{default} obtiennent {1} point(s) pour avoir permit au VIP de s'échapper."
+	}
+	"VIPEscaped"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour son evasion en tant que VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"fr"		"Les {lightgreen}Terroristes{default} obtiennent {1} point(s) pour avoir tué le VIP."
+	}
+	"VIPKilled"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir tué le VIP."
+	}
+	
+	"GotPointsBy"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour {4}."
+	}
+
+	"IsRankedAt"
+	{
+		"fr"		"Le joueur {1}  est classé {2}/{3} avec {4} point(s), {5}  tué(s), {6} mort(s) et un ratio de {7}"
+	}
+	"Killing"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir tué {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2})[{6}/{7}] obtient {3} point(s) pour avoir tué {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir tué {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2})[{6}/{7}] obtient {3} point(s) pour avoir tué {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir réalisé un Headshot."
+	}
+	"TR_Planting"
+	{
+		"fr"		"Les {lightgreen}Terroristes{default} obtiennent {1} point(s) pour avoir posé la bombe"
+	}
+	
+	"Planting"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir posé la bombe."
+	}
+	"TR_Exploding"
+	{
+		"fr"		"Les {lightgreen}Terroristes{default} obtiennent {1} point(s) pour avoir fait exploser la bombe."
+	}
+	
+	"Exploding"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir fait exploser la bombe."
+	}
+	"CT_Defusing"
+	{
+		"fr"		"Les {lightgreen}Anti-Terroristes{default} obtiennent {1} point(s) pour avoir désamorcé la bombe."
+	}
+	
+	"Defusing"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir désamorcé la bombe."
+	}
+	
+	"CT_Hostage"
+	{
+		"fr"		"Les {lightgreen}Anti-Terroristes{default} obtiennent {1} point(s) pour avoir sauvé les otages."
+	}
+	
+	"Hostage"
+	{
+		"fr"		"{lightgreen}{1}{default} ({2}) obtient {3} point(s) pour avoir sauvé les otages."
+	}
+	
+	"CT_Round"
+	{
+		"fr"		"Les {lightgreen}Anti-Terroristes{default} obtiennent {1} point(s) pour avoir gagné la manche."
+	}
+	
+	"TR_Round"
+	{
+		"fr"		"Les {lightgreen}Terroristes{default} obtiennent {1} point(s) pour avoir gagné la manche."
+	}
+	
+	
+	"Showing"
+	{
+		"fr"		"Affiche de {1} à {2} sur {3}\n"
+	}
+	
+	"Next"
+	{
+		"fr"		"Suivant"
+	}
+	
+	"Back"
+	{
+		"fr"		"Précédent"
+	}
+	
+	"KnifeKills"
+	{
+		"fr"		"Tués au couteau"
+	}
+	
+	"TaserKills"
+	{
+		"fr"		"Tués au taser"
+	}
+	
+	"NotRanked"
+	{
+		"fr"		"Non classé. Vous avez besoin de tuer {2} adversaire pour entrer dans le classement. Actuellement {1}."
+	}
+	
+	"Position"
+	{
+		"fr"		"Position"
+	}
+	
+	"Points"
+	{
+		"fr"		"Points"
+	}
+	
+	"BasicStats"
+	{
+		"fr"		"Statistiques basiques"
+	}
+	
+	"KillsDeaths"
+	{
+		"fr"		"Tués: {1}   Morts: {2}"
+	}
+	
+	"Suicides"
+	{
+		"fr"		"Suicides"
+	}
+	
+	"RoundStats"
+	{
+		"fr"		"Statistiques des Rounds"
+	}
+	
+	"TRWins"
+	{
+		"fr"		"Victoires Terro"
+	}
+	
+	"CTWins"
+	{
+		"fr"		"Victoires CT"
+	}
+	
+	"HitStats"
+	{
+		"fr"		"Stats dommages"
+	}
+	
+	"Shots"
+	{
+		"fr"		"Tirs"
+	}
+	
+	"Hits"
+	{
+		"fr"		"Dommages"
+	}
+	
+	"Accuracy"
+	{
+		"fr"		"Précision"
+	}
+	
+	"BombHostagesStats"
+	{
+		"fr"		"Statistiques Bombes/Otages"
+	}
+	
+	"PlantedBombs"
+	{
+		"fr"		"Bombes posées"
+	}
+	
+	"DefusedBombs"
+	{
+		"fr"		"Bombes désamorcées"
+	}
+	
+	"ExplodedBombs"
+	{
+		"fr"		"Bombes explosées"
+	}
+	
+	"RescuedHostages"
+	{
+		"fr"		"Otages sauvés"
+	}
+	
+	"OtherStats"
+	{
+		"fr"		"Autres statistiques"
+	}
+	
+	"TimeConnected"
+	{
+		"fr"		"Temps connecté: {1} heures, {2} minutes, {3} secondes"
+	}
+	
+	"Head"
+	{
+		"fr"		"Tête"
+	}
+	
+	"Chest"
+	{
+		"fr"		"Poitrine"
+	}
+	
+	"Stomach"
+	{
+		"fr"		"Estomac"
+	}
+	
+	"LeftArm"
+	{
+		"fr"		"Bras gauche"
+	}
+	
+	"LeftLeg"
+	{
+		"fr"		"Jambe gauche"
+	}
+	
+	"RightArm"
+	{
+		"fr"		"Bras droit"
+	}
+	
+	"RightLeg"
+	{
+		"fr"		"Jambe droite"
+	}
+	
+	"Next9Players"
+	{
+		"fr"		"9 joueurs suivants"
+	}
+	
+	"WeaponsStats"
+	{
+		"fr"		"Statistiques armes"
+	}
+}
+ 

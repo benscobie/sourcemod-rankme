@@ -1,0 +1,288 @@
+"Phrases"
+{
+	"Kills"
+	{
+		"ru"		"Убийства" //ArtDesire, 10/3/12:fix&upd by Lord Canistra
+	}
+	"LostSuicide"
+	{
+		"en"		"{lightgreen}{1}{default} ({2}) потерял(а) {3} очко(в) за самоубийство."
+	}
+	"LostTK"
+	{
+		"en"		"{lightgreen}{1}{default} ({2}) потерял(а) {3} очко(в) за убийство товарища {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"en"		"VIP статистика"
+	}
+	"VIPEscapes"
+	{
+		"en"		"Побегов в роли VIP"
+	}
+	"VIPsKilled"
+	{
+		"en"		"Убито VIP"
+	}
+	"CT_VIPEscaped"
+	{
+		"en"		"{lightgreen}Counter-Terrorists{default} получили {1} очков за побег VIP."
+	}
+	"VIPEscaped"
+	{
+		"en"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за побег в роли VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"en"		"{lightgreen}Terrorists{default} получили {1} очков за убийство VIP."
+	}
+	"VIPKilled"
+	{
+		"en"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за убийство VIP."
+	}
+	
+	"GotPointsBy"
+	{
+		"en"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очко(в) за {4}."
+	}
+	
+	"IsRankedAt"
+	{
+		"ru"		"Игрок {1}  на {2}/{3} месте, с {4) очками, {5}  убийствами, {6} смертями и KDR {7}"
+	}
+	"Killing"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за убийство {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2})[{6}/{7}] получил(а) {3} очков за убийство {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за убийство {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2})[{6}/{7}] получил(а) {3} очков за убийство {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за Хэдшот."
+	}
+	"TR_Planting"
+	{
+		"ru"		"{lightgreen}Terrorists{default} получили {1} очков за установку бомбы."
+	}
+	
+	"Planting"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за установку бомбы."
+	}
+	"TR_Exploding"
+	{
+		"ru"		"{lightgreen}Terrorists{default} получили {1} очков за взрыв бомбы."
+	}
+	
+	"Exploding"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за взрыв бомбы."
+	}
+	"CT_Defusing"
+	{
+		"ru"		"{lightgreen}Counter-Terrorists{default} получили {1} очков за разминирование бомбы."
+	}
+	
+	"Defusing"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за разминирование бомбы."
+	}
+	
+	"CT_Hostage"
+	{
+		"ru"		"{lightgreen}Counter-Terrorists{default} получили {1}  очков за спасение заложника."
+	}
+	
+	"Hostage"
+	{
+		"ru"		"{lightgreen}{1}{default} ({2}) получил(а) {3} очков за спасение заложника."
+	}
+	
+	"CT_Round"
+	{
+		"ru"		"{lightgreen}Контр-террористы{default} получили {1} очков за победу в раунде."
+	}
+	
+	"TR_Round"
+	{
+		"ru"		"{lightgreen}Террористы{default} получили {1} очков за победу в раунде."
+	}
+	
+	
+	"Showing"
+	{
+		"ru"		"Показано с {1} по {2} из {3}\n"
+	}
+	
+	"Next"
+	{
+		"ru"		"Вперед"
+	}
+	
+	"Back"
+	{
+		"ru"		"Назад"
+	}
+	
+	"KnifeKills"
+	{
+		"ru"		"Ножевых убийств"
+	}
+	
+	"NotRanked"
+	{
+		"ru"		"Ещё не в ранке. Вам нужно {2} убийств чтобы войти в ранк. Сейчас: {1}."
+	}
+	
+	"Position"
+	{
+		"ru"		"Позиция"
+	}
+	
+	"Points"
+	{
+		"ru"		"Очков"
+	}
+	
+	"BasicStats"
+	{
+		"ru"		"Основная статистика"
+	}
+	
+	"KillsDeaths"
+	{
+		"ru"		"Убийств: {1}   Смертей: {2}"
+	}
+	
+	"Suicides"
+	{
+		"ru"		"Суицидов"
+	}
+	
+	"RoundStats"
+	{
+		"ru"		"Статистика раундов"
+	}
+	
+	"TRWins"
+	{
+		"ru"		"TR побед"
+	}
+	
+	"CTWins"
+	{
+		"ru"		"CT побед"
+	}
+	
+	"HitStats"
+	{
+		"ru"		"Статистика попаданий"
+	}
+	
+	"Shots"
+	{
+		"ru"		"Выстрелов"
+	}
+	
+	"Hits"
+	{
+		"ru"		"Попадений"
+	}
+	
+	"Accuracy"
+	{
+		"ru"		"Точность"
+	}
+	
+	"BombHostagesStats"
+	{
+		"ru"		"Статистика бомб/заложников"
+	}
+	
+	"PlantedBombs"
+	{
+		"ru"		"Установлено бомб"
+	}
+	
+	"DefusedBombs"
+	{
+		"ru"		"Обезврежено бомб"
+	}
+	
+	"ExplodedBombs"
+	{
+		"ru"		"Взорвано бомб"
+	}
+	
+	"RescuedHostages"
+	{
+		"ru"		"Спасено заложников"
+	}
+	
+	"OtherStats"
+	{
+		"ru"		"Другая статистика"
+	}
+	
+	"TimeConnected"
+	{
+		"ru"		"Время подключения: {1} часов, {2} минут, {3} секунд"
+	}
+	
+	"Head"
+	{
+		"ru"		"Голова"
+	}
+	
+	"Chest"
+	{
+		"ru"		"Грудь"
+	}
+	
+	"Stomach"
+	{
+		"ru"		"Живот"
+	}
+	
+	"LeftArm"
+	{
+		"ru"		"Левая рука"
+	}
+	
+	"LeftLeg"
+	{
+		"ru"		"Левая нога"
+	}
+	
+	"RightArm"
+	{
+		"ru"		"Правая рука"
+	}
+	
+	"RightLeg"
+	{
+		"ru"		"Правая нога"
+	}
+	
+	"Next9Players"
+	{
+		"ru"		"Следующие 9 игроков"
+	}
+	
+	"WeaponsStats"
+	{
+		"ru"		"Статистика оружий"
+	}
+}
+ 

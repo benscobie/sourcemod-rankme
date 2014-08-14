@@ -1,0 +1,288 @@
+﻿"Phrases"
+{
+	"Kills"
+	{
+		"de"		"Kills"
+	}
+	"LostSuicide"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) verliert {3} Punkt(e) für Selbsttötung."
+	}
+	"LostTK"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) verliert {3} Punkt(e) für Team Killing {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"de"		"VIP Statistiken"
+	}
+	"VIPEscapes"
+	{
+		"de"		"Entkam als VIP"
+	}
+	"VIPsKilled"
+	{
+		"de"		"VIPs getötet"
+	}
+	"CT_VIPEscaped"
+	{
+		"de"		"{lightgreen}Counter-Terrorists{default} bekommen {1} Punkte für erfolgreiche VIP Escorte."
+	}
+	"VIPEscaped"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkte für das Entkommen als VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"de"		"{lightgreen}Terrorists{default} bekommen {1} Punkte für das vereiteln der Escorte des VIPs."
+	}
+	"VIPKilled"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkte für das Niederstrecken des VIPs."
+	}
+	
+	"GotPointsBy"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für {4}."
+	}
+
+	"IsRankedAt"
+	{
+		"de"		"Spieler {1}  ist auf Platz {2} von {3} Spielern mit {4} Punkten, {5}  Kills, {6} Toden und einer K/D von {7}"
+	}
+	"Killing"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkte für das Töten von {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"de"		"{lightgreen}{1}{default} ({2})[{6}/{7}] bekommt {3} Punkte für das Töten von {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkte für das Töten von {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"de"		"{lightgreen}{1}{default} ({2})[{6}/{7}] bekommt {3} Punkte für das Töten von {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für einen Kopfschuss."
+	}
+	"TR_Planting"
+	{
+		"de"		"{lightgreen}Terrorists{default} bekommen {1} Punkt(e) für das Helfen bei der Bombenplazierung."
+	}
+	
+	"Planting"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für das legen der Bombe."
+	}
+	"TR_Exploding"
+	{
+		"de"		"{lightgreen}Terrorists{default} bekommen {1} Punkt(e) für das Erreichen des Zieles."
+	}
+	
+	"Exploding"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für das Detonieren der Bombe."
+	}
+	"CT_Defusing"
+	{
+		"de"		"{lightgreen}Counter-Terrorists{default} bekommen {1} Punkt(e) für das Helfen bei der Entschärfung der Bombe."
+	}
+	
+	"Defusing"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für das Entschärfen der Bombe."
+	}
+	
+	"CT_Hostage"
+	{
+		"de"		"{lightgreen}Counter-Terrorists{default} bekommen {1} Punkt(e) für die Hilfe zur Befreiung einer Geisel."
+	}
+	
+	"Hostage"
+	{
+		"de"		"{lightgreen}{1}{default} ({2}) bekommt {3} Punkt(e) für die Befreiung einer Geisel."
+	}
+	
+	"CT_Round"
+	{
+		"de"		"{lightgreen}Counter-Terrorists{default} bekommen {1} Punkt(e) für das Gewinnen der Runde."
+	}
+	
+	"TR_Round"
+	{
+		"de"		"{lightgreen}Terrorists{default} bekommen {1} Punkt(e) für das Gewinnen der Runde."
+	}
+	
+	
+	"Showing"
+	{
+		"de"		"Zeige {1} bis {2} von {3}\n"
+	}
+	
+	"Next"
+	{
+		"de"		"Weiter"
+	}
+	
+	"Back"
+	{
+		"de"		"Zurück"
+	}
+	
+	"KnifeKills"
+	{
+		"de"		"Messer Kills"
+	}
+	
+	"NotRanked"
+	{
+		"de"		"Du hast noch keinen Rank. Du brauchst {2} Kills um ein Rank zu bekommen. Momentan hast du {1}."
+	}
+	
+	"Position"
+	{
+		"de"		"Position"
+	}
+	
+	"Points"
+	{
+		"de"		"Punkte"
+	}
+	
+	"BasicStats"
+	{
+		"de"		"Einfache Statistik"
+	}
+	
+	"KillsDeaths"
+	{
+		"de"		"Kills: {1}   Tode: {2}"
+	}
+	
+	"Suicides"
+	{
+		"de"		"Suizide"
+	}
+	
+	"RoundStats"
+	{
+		"de"		"Runden Statistik"
+	}
+	
+	"TRWins"
+	{
+		"de"		"als TR's gewonnen"
+	}
+	
+	"CTWins"
+	{
+		"de"		"als CT's gewonnen"
+	}
+	
+	"HitStats"
+	{
+		"de"		"Treffer Statistik"
+	}
+	
+	"Shots"
+	{
+		"de"		"Schüsse"
+	}
+	
+	"Hits"
+	{
+		"de"		"Treffer"
+	}
+	
+	"Accuracy"
+	{
+		"de"		"Genauigkeit"
+	}
+	
+	"BombHostagesStats"
+	{
+		"de"		"Bomben/Geisel Statistik"
+	}
+	
+	"PlantedBombs"
+	{
+		"de"		"Plazierte Bomben"
+	}
+	
+	"DefusedBombs"
+	{
+		"de"		"Entschärfte Bomben"
+	}
+	
+	"ExplodedBombs"
+	{
+		"de"		"Detonierte Bomben"
+	}
+	
+	"RescuedHostages"
+	{
+		"de"		"Befreite Geiseln"
+	}
+	
+	"OtherStats"
+	{
+		"de"		"Andere Statistiken"
+	}
+	
+	"TimeConnected"
+	{
+		"de"		"Zeit verbunden: {1} Stunden, {2} Minuten, {3} Sekunden"
+	}
+	
+	"Head"
+	{
+		"de"		"Kopf"
+	}
+	
+	"Chest"
+	{
+		"de"		"Brust"
+	}
+	
+	"Stomach"
+	{
+		"de"		"Bauch"
+	}
+	
+	"LeftArm"
+	{
+		"de"		"Linker Arm"
+	}
+	
+	"LeftLeg"
+	{
+		"de"		"Linkes Bein"
+	}
+	
+	"RightArm"
+	{
+		"de"		"Rechter Arm"
+	}
+	
+	"RightLeg"
+	{
+		"de"		"Rechter Bein"
+	}
+	
+	"Next9Players"
+	{
+		"de"		"Nächsten 9 Spieler"
+	}
+	
+	"WeaponsStats"
+	{
+		"de"		"Waffen Statistik"
+	}
+}
+ 

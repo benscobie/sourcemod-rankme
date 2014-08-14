@@ -1,0 +1,342 @@
+﻿"Phrases"
+{	
+	"Deaths"
+	{
+		"en"		"Deaths"
+	}
+	"ResetMyRank"{
+		"en"		"{default}Your rank has been reseted"
+	}
+	"BombPickup"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} point(s) for Picking up the Bomb."
+	}
+	"BombDropped"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) lost {3} point(s) for Dropping the Bomb."
+	}
+	"MVP"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} point(s) for being the Most Valuable Player."
+	}
+	"Kills"
+	{
+		"en"		"Kills"
+	}
+	"LostSuicide"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) lost {3} point(s) for Suiciding."
+	}
+	"LostTK"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s}"
+		"en"		"{lightgreen}{1}{default} ({2}) lost {3} point(s) for Team Killing {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"en"		"VIP Statistics"
+	}
+	"VIPEscapes"
+	{
+		"en"		"Escapes as VIP"
+	}
+	"VIPsKilled"
+	{
+		"en"		"VIPs Killed"
+	}
+	"CT_VIPEscaped"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Counter-Terrorists{default} got {1} points for Escaping as VIP."
+	}
+	"VIPEscaped"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Escaping as VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terrorists{default} got {1} points for Killing the VIP."
+	}
+	"VIPKilled"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Killing the VIP."
+	}
+	
+	"GotPointsBy"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} point(s) for {4}."
+	}
+
+	"IsRankedAt"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d},{5:d},{6:d},{7:.2f}"
+		"en"		"Player {1}  is ranked at {2}/{3} with {4} points, {5}  kills, {6} deaths and KDR {7}"
+	}
+	"Killing"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for killing {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d}"
+		"en"		"{lightgreen}{1}{default} ({2})[{6}/{7}] got {3} points for killing {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for killing {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:s},{5:d},{6:d},{7:d},{8:d},{9:d}"
+		"en"		"{lightgreen}{1}{default} ({2})[{6}/{7}] got {3} points for killing {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} point for Headshot."
+	}
+	"TR_Planting"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terrorists{default} got {1} points for Planting the Bomb"
+	}
+	
+	"Planting"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Planting the Bomb."
+	}
+	"TR_Exploding"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terrorists{default} got {1} points for Exploding the Bomb."
+	}
+	
+	"Exploding"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Exploding the Bomb."
+	}
+	"CT_Defusing"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Counter-Terrorists{default} got {1} points for Defusing the Bomb."
+	}
+	
+	"Defusing"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Defusing the Bomb."
+	}
+	
+	"CT_Hostage"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Counter-Terrorists{default} got {1} points for Rescuing the Hostage."
+	}
+	
+	"Hostage"
+	{
+		"#format"	"{1:s},{2:d},{3:d}"
+		"en"		"{lightgreen}{1}{default} ({2}) got {3} points for Rescuing the Hostage."
+	}
+	
+	"CT_Round"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Counter-Terrorists{default} got {1} points for Winning the Round."
+	}
+	
+	"TR_Round"
+	{
+		"#format"	"{1:d}"
+		"en"		"{lightgreen}Terrorists{default} got {1} points for Winning the Round."
+	}
+	
+	
+	"Showing"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Showing from {1} to {2} of {3}\n"
+	}
+	
+	"Next"
+	{
+		"en"		"Next"
+	}
+	
+	"Back"
+	{
+		"en"		"Back"
+	}
+	
+	"KnifeKills"
+	{
+		"en"		"Knife Kills"
+	}
+	
+	"TaserKills"
+	{
+		"en"		"Taser Kills"
+	}
+	
+	"NotRanked"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Not ranked yet. You need {2} kills for entering the rank. Current {1}."
+	}
+	
+	"Position"
+	{
+		"en"		"Position"
+	}
+	
+	"Points"
+	{
+		"en"		"Points"
+	}
+	
+	"BasicStats"
+	{
+		"en"		"Basic Stats"
+	}
+	
+	"KillsDeaths"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Kills: {1}   Deaths: {2}"
+	}
+	
+	"Suicides"
+	{
+		"en"		"Suicides"
+	}
+	
+	"RoundStats"
+	{
+		"en"		"Rounds Stats"
+	}
+	
+	"TRWins"
+	{
+		"en"		"TR's Wins"
+	}
+	
+	"CTWins"
+	{
+		"en"		"CT's Wins"
+	}
+	
+	"HitStats"
+	{
+		"en"		"Hit Stats"
+	}
+	
+	"Shots"
+	{
+		"en"		"Shots"
+	}
+	
+	"Hits"
+	{
+		"en"		"Hits"
+	}
+	
+	"Accuracy"
+	{
+		"en"		"Accuracy"
+	}
+	
+	"BombHostagesStats"
+	{
+		"en"		"Bombs/Hostages Stats"
+	}
+	
+	"PlantedBombs"
+	{
+		"en"		"Planted Bombs"
+	}
+	
+	"DefusedBombs"
+	{
+		"en"		"Defused Bombs"
+	}
+	
+	"ExplodedBombs"
+	{
+		"en"		"Exploded Bombs"
+	}
+	
+	"RescuedHostages"
+	{
+		"en"		"Rescued Hostages"
+	}
+	
+	"OtherStats"
+	{
+		"en"		"Other Stats"
+	}
+	
+	"TimeConnected"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Time connected: {1} hours, {2} minutes, {3} seconds"
+	}
+	
+	"Head"
+	{
+		"en"		"Head"
+	}
+	
+	"Chest"
+	{
+		"en"		"Chest"
+	}
+	
+	"Stomach"
+	{
+		"en"		"Stomach"
+	}
+	
+	"LeftArm"
+	{
+		"en"		"Left Arm"
+	}
+	
+	"LeftLeg"
+	{
+		"en"		"Left Leg"
+	}
+	
+	"RightArm"
+	{
+		"en"		"Right Arm"
+	}
+	
+	"RightLeg"
+	{
+		"en"		"Right Leg"
+	}
+	
+	"Next9Players"
+	{
+		"en"		"Next 9 players"
+	}
+	
+	"WeaponsStats"
+	{
+		"en"		"Weapon Statistics"
+	}
+}
+ 

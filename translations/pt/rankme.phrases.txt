@@ -1,0 +1,307 @@
+﻿"Phrases"
+{
+	"Deaths"
+	{
+		"pt"		"Mortes"
+	}
+	"ResetMyRank"
+	{
+		"pt"		"{default}Seu rank foi resetado"
+	}
+	"BombPickup"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto(s) por Pegar a Bomba."
+	}
+	"BombDropped"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) for Perder a Bomba."
+	}
+	"MVP"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos(s) por ser o Jogador de Maior Valor (MVP)."
+	}
+	"Kills"
+	{
+		"pt"		"Mortos"
+	}
+	"LostSuicide"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) por Suicídio."
+	}
+	"LostTK"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) perdeu {3} ponto(s) por Matar o companheiro {lightgreen}{4}"
+	}
+	"VIPStats"
+	{
+		"pt"		"Estatíscas de VIP"
+	}
+	"VIPEscapes"
+	{
+		"pt"		"Escapadas sendo VIP"
+	}
+	"VIPsKilled"
+	{
+		"pt"		"VIPs mortos"
+	}
+	"CT_VIPEscaped"
+	{
+		"pt"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos pelo VIP ter escapado."
+	}
+	"VIPEscaped"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Escapar sendo o VIP."
+	}
+	"TR_VIPKilled"
+	{
+		"pt"		"{lightgreen}Terroristas{default} ganharam {1} pontos por Matar o VIP."
+	}
+	"VIPKilled"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Matar o VIP."
+	}
+	
+	"GotPointsBy"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto(s) por {4}."
+	}
+	"IsRankedAt"
+	{
+		"pt"		"Jogador {1} está na posição {2}/{3} com {4} pontos, {5} mortos, {6} mortes e KDR {7}"
+	}
+	"Killing"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por matar {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2})[{6}/{7}] ganhou {3} pontos por matar {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por matar {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2})[{6}/{7}] ganhou {3} pontos por matar {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} ponto pelo Headshot."
+	}
+	"TR_Planting"
+	{
+		"pt"		"{lightgreen}Terroristas{default} ganharam {1} pontos por Plantar a Bomba"
+	}
+	
+	"Planting"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Plantar a Bomba."
+	}
+	"TR_Exploding"
+	{
+		"pt"		"{lightgreen}Terroristas{default} ganharam {1} pontos pela Explosão da Bomba"
+	}
+	
+	"Exploding"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos pela Explosão da Bomba."
+	}
+	"CT_Defusing"
+	{
+		"pt"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos por Desarmar a Bomba"
+	}
+	
+	"Defusing"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Desarmar a Bomba."
+	}
+	
+	"CT_Hostage"
+	{
+		"pt"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos por Salvar o Refém"
+	}
+	
+	"Hostage"
+	{
+		"pt"		"{lightgreen}{1}{default} ({2}) ganhou {3} pontos por Salvar o Refém."
+	}
+	
+	"CT_Round"
+	{
+		"pt"		"{lightgreen}Contra-Terroristas{default} ganharam {1} pontos por Ganhar a Rodada"
+	}
+	
+	"TR_Round"
+	{
+		"pt"		"{lightgreen}Terroristas{default} ganharam {1} pontos por Ganhar a Rodada"
+	}
+	
+	
+	"Showing"
+	{
+		"pt"		"Mostrando de {1} até {2} de {3}\n"
+	}
+	
+	"Next"
+	{
+		"pt"		"Próximo"
+	}
+	
+	"Back"
+	{
+		"pt"		"Anterior"
+	}
+	
+	"KnifeKills"
+	{
+		"pt"		"Mortes de faca"
+	}
+	
+	"NotRanked"
+	{
+		"pt"		"Você não está no rank ainda. Você precisa matar {2} para entrar no rank. No momento {1}."
+	}
+	
+	"Position"
+	{
+		"pt"		"Posição"
+	}
+	
+	"Points"
+	{
+		"pt"		"Pontos"
+	}
+	
+	"BasicStats"
+	{
+		"pt"		"Estatísticas básicas"
+	}
+	
+	"KillsDeaths"
+	{
+		"pt"		"Matou: {1}   Morreu: {2}"
+	}
+	
+	"Suicides"
+	{
+		"pt"		"Suicídios"
+	}
+	
+	"RoundStats"
+	{
+		"pt"		"Estatísticas de Rounds"
+	}
+	
+	"TRWins"
+	{
+		"pt"		"Vitórias de TR"
+	}
+	
+	"CTWins"
+	{
+		"pt"		"Vitórias de CT"
+	}
+	
+	"HitStats"
+	{
+		"pt"		"Estatísticas de Acertos"
+	}
+	
+	"Shots"
+	{
+		"pt"		"Tiros"
+	}
+	
+	"Hits"
+	{
+		"pt"		"Acertos"
+	}
+	
+	"Accuracy"
+	{
+		"pt"		"Precisão"
+	}
+	
+	"BombHostagesStats"
+	{
+		"pt"		"Estatisticas de Bomba/Reféns"
+	}
+	
+	"PlantedBombs"
+	{
+		"pt"		"Bombas plantadas"
+	}
+	
+	"DefusedBombs"
+	{
+		"pt"		"Bombas desarmadas"
+	}
+	
+	"ExplodedBombs"
+	{
+		"pt"		"Bombas explodidas"
+	}
+	
+	"RescuedHostages"
+	{
+		"pt"		"Reféns salvos"
+	}
+	
+	"OtherStats"
+	{
+		"pt"		"Estatísticas diversas"
+	}
+	
+	"TimeConnected"
+	{
+		"pt"		"Tempo conectado: {1} horas, {2} minutos, {3} segundos"
+	}
+	
+	"Head"
+	{
+		"pt"		"Cabeça"
+	}
+	
+	"Chest"
+	{
+		"pt"		"Peito"
+	}
+	
+	"Stomach"
+	{
+		"pt"		"Estômago"
+	}
+	
+	"LeftArm"
+	{
+		"pt"		"Braço esquerdo"
+	}
+	
+	"LeftLeg"
+	{
+		"pt"		"Perna esquerda"
+	}
+	
+	"RightArm"
+	{
+		"pt"		"Braço direito"
+	}
+	
+	"RightLeg"
+	{
+		"pt"		"Perna direita"
+	}
+	
+	"Next9Players"
+	{
+		"pt"		"Próximos 9 jogadores"
+	}
+	
+	"WeaponsStats"
+	{
+		"pt"		"Estatísticas de arma"
+	}
+}
+ 

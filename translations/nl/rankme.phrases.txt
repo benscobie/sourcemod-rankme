@@ -1,0 +1,250 @@
+﻿"Phrases"
+{
+	"Kills"
+	{
+		"nl"		"Moorden"
+	}
+	"GotPointsBy"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punt(en) voor {4}."
+	}
+	"IsRankedAt"
+	{
+		"nl"		"Speler {1} is {2}/{3} in de rangorde met {4} punten, {5}  moorden, {6} sterftes en een KDR van {7}"
+	}
+	"Killing"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor het vermoorden van {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2})[{6}/{7}] kreeg {3} punten voor het vermoorden van {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor het vermoorden van {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2})[{6}/{7}] kreeg {3} punten voor het vermoorden van {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor een Hoofdschot."
+	}
+	"TR_Planting"
+	{
+		"nl"		"{lightgreen}Terroristen{default} kregen {1} punten voor het Planten van de Bom"
+	}
+	
+	"Planting"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor het Planten van de Bom."
+	}
+	"TR_Exploding"
+	{
+		"nl"		"{lightgreen}Terroristen{default} kregen {1} punten voor het Exploderen van de Bom."
+	}
+	
+	"Exploding"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kregen {3} punten voor het Exploderen van de Bom."
+	}
+	"CT_Defusing"
+	{
+		"nl"		"{lightgreen}Contra-Terroristen{default} kregen {1} punten voor het Ontmantelen van de Bom."
+	}
+	
+	"Defusing"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor het Ontmantelen van de Bom."
+	}
+	
+	"CT_Hostage"
+	{
+		"nl"		"{lightgreen}Contra-Terroristen{default} kregen {1} punten voor het Redden van de Gegijzelden."
+	}
+	
+	"Hostage"
+	{
+		"nl"		"{lightgreen}{1}{default} ({2}) kreeg {3} punten voor het Redden van de Gegijzelden."
+	}
+	
+	"CT_Round"
+	{
+		"nl"		"{lightgreen}Contra-Terroristen{default} kregen {1} punten voor het Winnen van de Ronde."
+	}
+	
+	"TR_Round"
+	{
+		"nl"		"{lightgreen}Terroristen{default} kregen {1} punten het Winnen van de Ronde."
+	}
+	
+	
+	"Showing"
+	{
+		"nl"		"{1} tot {2} van de {3} aan het tonen\n"
+	}
+	
+	"Next"
+	{
+		"nl"		"Volgende"
+	}
+	
+	"Back"
+	{
+		"nl"		"Terug"
+	}
+	
+	"KnifeKills"
+	{
+		"nl"		"Mes Moorden"
+	}
+	
+	"NotRanked"
+	{
+		"nl"		"Nog niet gerangschikt. Je hebt nog {2} moorden nodig om in de rangorde te komen. Momentaal aan {1}."
+	}
+	
+	"Position"
+	{
+		"nl"		"Positie"
+	}
+	
+	"punten"
+	{
+		"nl"		"punten"
+	}
+	
+	"BasicStats"
+	{
+		"nl"		"Basis Statistieken"
+	}
+	
+	"KillsDeaths"
+	{
+		"nl"		"Moorden: {1}   Sterftes: {2}"
+	}
+	
+	"Suicides"
+	{
+		"nl"		"Zelfmoorden"
+	}
+	
+	"RoundStats"
+	{
+		"nl"		"Ronde Statistieken"
+	}
+	
+	"TRWins"
+	{
+		"nl"		"TR's Winnen"
+	}
+	
+	"CTWins"
+	{
+		"nl"		"CT's Winnen"
+	}
+	
+	"HitStats"
+	{
+		"nl"		"Tref Statistieken"
+	}
+	
+	"Shots"
+	{
+		"nl"		"Schoten"
+	}
+	
+	"Hits"
+	{
+		"nl"		"Treffers"
+	}
+	
+	"Accuracy"
+	{
+		"nl"		"Preciesheid"
+	}
+	
+	"BombHostagesStats"
+	{
+		"nl"		"Bommen/Gegijzelden Statistieken"
+	}
+	
+	"PlantedBombs"
+	{
+		"nl"		"Geplantte Bommen"
+	}
+	
+	"DefusedBombs"
+	{
+		"nl"		"Ontmantelde Bommen"
+	}
+	
+	"ExplodedBombs"
+	{
+		"nl"		"Geëxplodeerde Bommen"
+	}
+	
+	"RescuedHostages"
+	{
+		"nl"		"Geredde Gegijzelden"
+	}
+	
+	"OtherStats"
+	{
+		"nl"		"Andere Statistieken"
+	}
+	
+	"TimeConnected"
+	{
+		"nl"		"Tijd geconnecteerd: {1} uren, {2} minuten, {3} seconden"
+	}
+	
+	"Head"
+	{
+		"nl"		"Hoofd"
+	}
+	
+	"Chest"
+	{
+		"nl"		"Borst"
+	}
+	
+	"Stomach"
+	{
+		"nl"		"Maag"
+	}
+	
+	"LeftArm"
+	{
+		"nl"		"Linker Arm"
+	}
+	
+	"LeftLeg"
+	{
+		"nl"		"Linker Been"
+	}
+	
+	"RightArm"
+	{
+		"nl"		"Rechter Arm"
+	}
+	
+	"RightLeg"
+	{
+		"nl"		"Rechter Been"
+	}
+	
+	"Next9Players"
+	{
+		"nl"		"Volgende 9 Spelers"
+	}
+	
+	"WeaponsStats"
+	{
+		"nl"		"Wapen Statistieken"
+	}
+}
+ 

@@ -1,0 +1,328 @@
+﻿"Phrases"
+{
+	"BombPickup"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za podniesienie bomby."
+	}
+	"BombDropped"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) utracił {3} punkt(y/ów) za upuszczenie bomby."
+	}
+	"MVP"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za bycie najcenniejszym graczem rozegranej rundy."
+	}
+	"Kills"
+	{
+		"pl"		"Zabić"
+	}
+	"LostSuicide"
+    {
+
+		"pl"        "{lightgreen}{1}{default} ({2}) stracił {3} punkt(y/ów) przez popełnieni samobójstwa."
+    }
+    "LostTK"
+    {
+
+		"pl"        "{lightgreen}{1}{default} ({2}) stracił {3} punkt(y/ów) za TK na {lightgreen}{4}"
+    }
+    "VIPStats"
+    {
+        "pl"        "Statystyki VIPa"
+    }
+    "VIPEscapes"
+    {
+        "pl"        "Ucieczki jako VIP"
+    }
+    "VIPsKilled"
+    {
+        "pl"        "Zabitych VIPów"
+    }
+	"CT_VIPEscaped"
+    {
+
+        "pl"        "{lightgreen}Anty-Terrorysci{default} uzyskał {1} punkt(y/ów) za ucieczke VIP'a."
+    }
+    "VIPEscaped"
+    {
+
+        "pl"        "{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za ucieczke jako VIP."
+    }
+    "TR_VIPKilled"
+    {
+
+        "pl"        "{lightgreen}Terrorysci{default} uzyskał {1} punkt(y/ów) za zabicie VIP'a."
+    }
+    "VIPKilled"
+    {
+
+        "pl"        "{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za zabicie VIP'a."
+    } 
+
+	"GotPointsBy"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za {4}."
+	}
+	"IsRankedAt"
+	{
+
+		"pl"		"Gracz {1} zajmuje pozycje {2}/{3} z {4} punkty, {5} zabić, {6} zgonów i KDR {7}"
+	}
+	"Killing"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za zabicie {lightgreen}{4} {default}({5})."
+	}
+	
+	"KillingKillerNotRanked"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2})[{6}/{7}] uzyskał {3} punkt(y/ów) za zabicie {lightgreen}{4} {default}({5})."
+	}
+	"KillingVictimNotRanked"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za zabicie {lightgreen}{4} {default}({5})[{6}/{7}]."
+	}
+	"KillingBothNotRanked"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2})[{6}/{7}] uzyskał {3} punkt(y/ów) za zabicie {lightgreen}{4} {default}({5})[{8}/{9}]."
+	}
+	"Headshot"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) z HeadShot'a."
+	}
+	"TR_Planting"
+	{
+
+		"pl"		"{lightgreen}Terrorysci{default} zdobywają {1} punkt(y/ów) za podłożenie bomby."
+	}
+	
+	"Planting"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za podłożenie bomby."
+	}
+	"TR_Exploding"
+	{
+
+		"pl"		"{lightgreen}Terrorysci{default} zdobywają {1} punkt(y/ów) za zniszczenie celu."
+	}
+	
+	"Exploding"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) uzyskał {3} punkt(y/ów) za zniszczenie celu."
+	}
+	"CT_Defusing"
+	{
+
+		"pl"		"{lightgreen}Anty-Terrorysci{default} zdobywają {1} punkt(y/ów) za rozbrojenie bomby."
+	}
+	
+	"Defusing"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) zdobywa {3} punkt(y/ów) za rozbrojenie bomby."
+	}
+	
+	"CT_Hostage"
+	{
+
+		"pl"		"{lightgreen}Anty-Terrorysci{default} zdobywają {1} punkt(y/ów) za uratowanie zakładników."
+	}
+	
+	"Hostage"
+	{
+
+		"pl"		"{lightgreen}{1}{default} ({2}) zdobywa {3} punkt(y/ów) za uratowanie zakładników."
+	}
+	
+	"CT_Round"
+	{
+
+		"pl"		"{lightgreen}Anty-Terrorysci{default} zdobywają {1} punkt(y/ów) za wygraną rundę."
+	}
+	
+	"TR_Round"
+	{
+
+		"pl"		"{lightgreen}Terrorysci{default} zdobywają {1} punkt(y/ów) za wygraną rundę."
+	}
+	
+	
+	"Showing"
+	{
+
+		"pl"		"Wyświetlono {1} do {2} z {3}\n"
+	}
+	
+	"Next"
+	{
+		"pl"		"Następne"
+	}
+	
+	"Back"
+	{
+		"pl"		"Powrót"
+	}
+	
+	"KnifeKills"
+	{
+		"pl"		"Zabić nożem"
+	}
+	
+	"NotRanked"
+	{
+
+		"pl"		"Nieklasyfikowany gracz. Potrzebujesz {2} zabić(a) by znaleźć się w rankingu. Aktualnie masz {1}."
+	}
+	
+	"Position"
+	{
+		"pl"		"Pozycja"
+	}
+	
+	"Points"
+	{
+		"pl"		"Punkty"
+	}
+	
+	"BasicStats"
+	{
+		"pl"		"Podstawowe Statystyki"
+	}
+	
+	"KillsDeaths"
+	{
+
+		"pl"		"Zabić: {1}  Zgonów: {2}"
+	}
+	
+	"Suicides"
+	{
+		"pl"		"Samobójstwa"
+	}
+	
+	"RoundStats"
+	{
+		"pl"		"Statystyki Rund"
+	}
+	
+	"TRWins"
+	{
+		"pl"		"T wygrali"
+	}
+	
+	"CTWins"
+	{
+		"pl"		"CT wygrali"
+	}
+	
+	"HitStats"
+	{
+		"pl"		"Statystyki Trafień"
+	}
+	
+	"Shots"
+	{
+		"pl"		"Strzały"
+	}
+	
+	"Hits"
+	{
+		"pl"		"Trafień"
+	}
+	
+	"Accuracy"
+	{
+		"pl"		"Celność"
+	}
+	
+	"BombHostagesStats"
+	{
+		"pl"		"Bomba/Zakładnicy Statystyki"
+	}
+	
+	"PlantedBombs"
+	{
+		"pl"		"Podłożone bomby"
+	}
+	
+	"DefusedBombs"
+	{
+		"pl"		"Rozbrojone bomby"
+	}
+	
+	"ExplodedBombs"
+	{
+		"pl"		"Zniszczone cele"
+	}
+	
+	"RescuedHostages"
+	{
+		"pl"		"Uratowani zakładnicy"
+	}
+	
+	"OtherStats"
+	{
+		"pl"		"Innie Statystyki"
+	}
+	
+	"TimeConnected"
+	{
+
+		"pl"		"Czas gry: {1} godz, {2} min, {3} sek"
+	}
+	
+	"Head"
+	{
+		"pl"		"Głowa"
+	}
+	
+	"Chest"
+	{
+		"pl"		"Klatka"
+	}
+	
+	"Stomach"
+	{
+		"pl"		"Brzuch"
+	}
+	
+	"LeftArm"
+	{
+		"pl"		"Lewe Ramie"
+	}
+	
+	"LeftLeg"
+	{
+		"pl"		"Lewa Noga"
+	}
+	
+	"RightArm"
+	{
+		"pl"		"Prawe Ramie"
+	}
+	
+	"RightLeg"
+	{
+		"pl"		"Prawa Noga"
+	}
+	
+	"Next9Players"
+	{
+		"pl"		"Następnych 9 graczy"
+	}
+	
+	"WeaponsStats"
+	{
+		"pl"		"Statystyki Broni"
+	}
+}
