@@ -1411,7 +1411,11 @@ public Action:EventPlayerDeath(Handle:event, const String:name[], bool:dontBroad
 		decl String:weapon[64];
 		GetEventString(event, "weapon", weapon, sizeof(weapon));
 		ReplaceString(weapon,sizeof(weapon),"weapon_","");
-	
+
+		if(StrEqual(weapon,"knife_default_ct") || StrEqual(weapon,"knife_default_t") || StrEqual(weapon,"knife_t")){
+			weapon = "knife";
+		}
+		
 		new score_dif;
 		if(attacker < MAXPLAYERS)
 			score_dif = g_aStats[victim][SCORE] - g_aStats[attacker][SCORE];
