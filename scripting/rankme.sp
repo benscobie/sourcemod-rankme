@@ -1412,7 +1412,7 @@ public Action:EventPlayerDeath(Handle:event, const String:name[], bool:dontBroad
 		GetEventString(event, "weapon", weapon, sizeof(weapon));
 		ReplaceString(weapon,sizeof(weapon),"weapon_","");
 
-		if(StrEqual(weapon,"knife_default_ct") || StrEqual(weapon,"knife_default_t") || StrEqual(weapon,"knife_t")){
+		if(StrEqual(weapon,"knife_default_ct") || StrEqual(weapon,"knife_default_t") || StrEqual(weapon,"knife_t") || StrEqual(weapon,"knifegg") || StrEqual(weapon,"knife_flip") || StrEqual(weapon,"knife_gut") || StrEqual(weapon,"knife_karambit") || StrEqual(weapon,"bayonet") || StrEqual(weapon,"knife_m9_bayonet") || StrEqual(weapon,"knife_butterfly") || StrEqual(weapon,"knife_tactical")){
 			weapon = "knife";
 		}
 		
