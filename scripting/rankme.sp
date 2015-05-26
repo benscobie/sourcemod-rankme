@@ -626,7 +626,7 @@ public Native_GetRank(Handle:plugin, numParams)
 	new Handle:pack = CreateDataPack();
 	
 	WritePackCell(pack, client);
-	WritePackCell(pack, _:callback);
+	WritePackFunction(pack, callback);
 	WritePackCell(pack, data);
 	WritePackCell(pack, _:plugin);
 	
@@ -646,7 +646,7 @@ public SQL_GetRankCallback(Handle:owner, Handle:hndl, const String:error[], any:
 	new Handle:pack = data;
 	ResetPack(pack);
 	new client = ReadPackCell(pack);
-	new Function:callback = Function:ReadPackCell(pack);
+	new Function:callback = Function:ReadPackFunction(pack);
 	new any:args = ReadPackCell(pack);
 	new Handle:plugin = Handle:ReadPackCell(pack);
 	CloseHandle(pack);
@@ -1635,7 +1635,7 @@ public LoadPlayer(client){
 	SQL_EscapeString(g_hStatsDb,name,sEscapeName,sizeof(sEscapeName));
 	//ReplaceString(name, sizeof(name), "'", "");
 	new String:auth[64];
-	GetClientAuthString(client,auth,sizeof(auth));
+	GetClientAuthId(client,AuthId_Steam2,auth,sizeof(auth));
 	strcopy(g_aClientSteam[client],64,auth);
 	new String:ip[64];
 	GetClientIP(client,ip,sizeof(ip));
@@ -1675,7 +1675,7 @@ public SQL_LoadPlayerCallback(Handle:owner, Handle:hndl, const String:error[], a
 			return;
 	} else if(g_RankBy == 0){
 		new String:auth[64];
-		GetClientAuthString(client,auth,sizeof(auth));
+		GetClientAuthId(client,AuthId_Steam2,auth,sizeof(auth));
 		if(!StrEqual(auth,g_aClientSteam[client]))
 			return;
 	} else if(g_RankBy == 2){

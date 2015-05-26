@@ -55,7 +55,7 @@ public Action:CMD_ResetRank(client,args){
 					OnClientPutInServer(i);
 			
 			} else if(g_RankBy == 0){
-				GetClientAuthString(i,auth,sizeof(auth));
+				GetClientAuthId(i,AuthId_Steam2,auth,sizeof(auth));
 				
 				if(StrEqual(auth,arg1,false))
 					OnClientPutInServer(i);
@@ -1698,7 +1698,7 @@ public SQL_StatsMe2Callback(Handle:owner, Handle:hndl, const String:error[], any
 		
 		target = ReadPackCell(hDatapack);
 		
-		GetClientAuthString(target,auth,sizeof(auth));
+		GetClientAuthId(target,AuthId_Steam2,auth,sizeof(auth));
 		
 		GetClientName(target,name,sizeof(name));
 		
