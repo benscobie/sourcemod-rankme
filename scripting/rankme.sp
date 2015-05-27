@@ -1,8 +1,8 @@
 #pragma semicolon  1
-#define PLUGIN_VERSION "3.0.2"
+#define PLUGIN_VERSION "3.0.3"
 #include <sourcemod> 
 #include <adminmenu>
-#include <colors>
+#include <multicolors>
 #include <rankme>
 #define MSG "\x01\x0B\x04[RankMe] \x01"
 #define SPEC 1
