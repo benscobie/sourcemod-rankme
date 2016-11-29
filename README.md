@@ -1,6 +1,11 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
+Unfortunately, I don't have time to maintain this anymore. See rogeraabbccdd's fork here https://github.com/rogeraabbccdd/Kento-Rankme.
+
 # SourceMod RankMe Plugin
 
 A ranking plugin that provides many different statistics and supports SQLite and MySQL.
+
 
 ## Credits
 
